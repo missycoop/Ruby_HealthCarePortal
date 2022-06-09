@@ -1,5 +1,7 @@
 # Ruby_HealthCarePortal
 
+![ScreenShot](/Screenshot 2022-06-09 160344.png)
+
 ## Inspiration
 Diabetes is one of the vicious diseases of the millennia.  Statistics say that one in every 10 adults is diabetic and 90% of them have level-2 diabetes. People with diabetes need constant care from people around them, proper health assessments and treatments on time. Level-2 diabetes makes it more crucial as the fluctuating insulin levels have an adverse effect, both physically and mentally. People with Diabetes suffer from obesity, anxiety, sleeplessness and palpitation if they are not on proper medication and care. They also need a regular dosage of insulin to keep their sugar level balanced to avoid dizziness and kidney problems.
 
